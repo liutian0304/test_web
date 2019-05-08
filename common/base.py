@@ -138,3 +138,4 @@ if __name__ == '__main__':
     base.open_url(url)
     locator=('name','username')
     base.send_keys(locator,'admin')
+    base.send_keys(locator,'admin1')
