@@ -139,3 +139,4 @@ if __name__ == '__main__':
     locator=('name','username')
     base.send_keys(locator,'admin')
     base.send_keys(locator,'admin1')
+    base.send_keys(locator,'admin2')
